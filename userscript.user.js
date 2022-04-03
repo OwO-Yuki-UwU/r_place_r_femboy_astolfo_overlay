@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/femboy + Astolfo template
+// @name         r/femboy + Astolfo overlay
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Overlay to help placing the pixels - the small pixels in the middle of the real pixels show where a pixel should be placed
